@@ -6,5 +6,5 @@ def remove_char_at(str, n):
     for letter in str:
         if index != n:
             new_string += letter
-            letter += 1
+            index += 1
     return (new_string)
