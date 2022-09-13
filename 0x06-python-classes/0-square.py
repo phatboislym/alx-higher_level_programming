@@ -5,8 +5,8 @@ defines a square.
 """
 
 class Square:
-"""
-empty class
-should define a square.
-"""
+    """
+    empty class
+    should define a square.
+    """
     pass
