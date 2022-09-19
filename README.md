@@ -13,3 +13,5 @@ Introduction to Python
 0x05 - Exceptions
 
 0x06 - Classes and Objects
+
+0x08 - More Classes and Objects
