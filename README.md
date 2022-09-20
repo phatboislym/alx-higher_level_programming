@@ -15,3 +15,5 @@ Introduction to Python
 0x06 - Classes and Objects
 
 0x08 - More Classes and Objects
+
+0x09 - Everything is object
