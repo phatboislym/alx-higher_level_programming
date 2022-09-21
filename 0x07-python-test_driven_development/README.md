@@ -1,1 +1,3 @@
-0x07-python_test_driven_development
+Python basics
+python scripts
+Introduction to Test Driven Development

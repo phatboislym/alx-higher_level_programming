@@ -1,1 +1,3 @@
-0x08-python-more_classes
+Python basics
+python scripts
+More classes tasks

@@ -1,1 +1,3 @@
-0x04. Python More Data Structures: Set, Dictionary
+Python basics
+python scripts, C source files, header files
+More data structures - sets, dictionaries

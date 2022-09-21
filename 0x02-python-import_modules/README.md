@@ -1,1 +1,3 @@
-0x02 - Import & Modules
+Python basics
+python scripts, C source files, header files
+Introduction to modules and importing modules

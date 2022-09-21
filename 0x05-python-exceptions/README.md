@@ -1,1 +1,3 @@
-0x05-python-exceptions
+Python basics
+python scripts
+Introduction to exceptions

@@ -1,1 +1,3 @@
-0x06-python-classes
+Python basics
+python scripts
+Introduction to classes 

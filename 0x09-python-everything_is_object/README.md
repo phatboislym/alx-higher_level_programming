@@ -1,1 +1,3 @@
-0x09-python-everything_is_object
+Python basics
+text files, python scripts
+Short answer questions about objects in Python and object tasks
