@@ -15,5 +15,3 @@ def read_file(filename=""):
         for line in file:
             print(line)
 
-
-read_file("README.md")
