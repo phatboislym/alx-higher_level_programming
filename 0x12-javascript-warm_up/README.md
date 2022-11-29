@@ -29,3 +29,13 @@
 * [12. Object](12-object.js)
 
 * [13. Add file](13-add.js)
+
+## Advanced Tasks
+
+* [14. Const or not const](100-let_me_const.js)
+
+* [15. Call me Moby](101-call_me_moby.js)
+
+* [16. Add me maybe](102-add_me_maybe.js)
+
+* [17. Increment object](103-object_fct.js)
