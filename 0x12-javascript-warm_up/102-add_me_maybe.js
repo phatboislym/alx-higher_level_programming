@@ -1,7 +1,6 @@
 #!/usr/bin/node
-function carlieRaeJepsen(number, theFunction)
-{
-	number += 1;
-	theFunction(number);
+function carlieRaeJepsen (number, theFunction) {
+  number += 1;
+  theFunction(number);
 }
-exports.addMeMaybe = carlieRaeJepsen
+exports.addMeMaybe = carlieRaeJepsen;
