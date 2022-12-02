@@ -1,13 +1,20 @@
 #!/usr/bin/node
+
+/**
+* You can assume all arguments can be converted to integer
+* If no argument passed, print 0
+* If the number of arguments is 1, print 0
+*/
+
 const argv = process.argv;
-const argc = (argv.length);
+const argc = argv.length;
+
 if (argc < 4) {
   console.log(0);
 } else {
   const args = argv.slice(2);
-  const numbers = args.map(x => Number(x));
-  let max = Math.max(...numbers);
-  numbers.splice(numbers.indexOf(max, numbers.indexOf(max)));
-  max = Math.max(...numbers);
-  console.log(max);
+  let numbers = args.map(Number);
+  numbers = numbers.sort(function (a, b) { return b - a; });
+  console.log(numbers);
+  console.log(numbers[1]);
 }
