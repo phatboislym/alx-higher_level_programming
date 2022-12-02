@@ -15,6 +15,5 @@ if (argc < 4) {
   const args = argv.slice(2);
   let numbers = args.map(Number);
   numbers = numbers.sort(function (a, b) { return b - a; });
-  console.log(numbers);
   console.log(numbers[1]);
 }
